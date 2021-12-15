@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FestecolReto2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Festecol Reto 2</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Productos -->
+    <string name="nameP1">Eventos</string>
+    <string name="nameP2">ferias</string>
+    <string name="nameP3">Bodas</string>
+    <string name="nameP4">Cocteleria</string>
+    <string name="nameP5">Alquiler</string>
+
+    <!-- Servicios -->
+    <string name="nameS1">Mercancia Pequeña</string>
+    <string name="nameS2">Mercancia Medianas</string>
+    <string name="nameS3">Mercancia Empresa</string>
+    <string name="nameS4">Importaciones</string>
+
+    <!-- Sucursales -->
+    <string name="nameM1">Bogota</string>
+    <string name="nameM2">Medellin</string>
+    <string name="nameM3">Cartagena</string>
+    <string name="nameM4">Cali</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
